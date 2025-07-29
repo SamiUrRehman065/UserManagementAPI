@@ -87,6 +87,3 @@ git commit -m "Refactor service to use singleton for stateful data"
 git remote add origin https://github.com/SamiUrRehman065/UserManagementAPI.git
 git push -u origin main
 ```
-```
-
-
