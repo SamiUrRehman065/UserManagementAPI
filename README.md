@@ -1,6 +1,5 @@
 
-```md
-# 🧑‍💼 UserManagementAPI
+## 🧑‍💼 UserManagementAPI
 
 A clean, scalable ASP.NET Core Web API built from scratch by **Sami Ur Rehman**, featuring full CRUD functionality, Swagger documentation, and in-memory data simulation.
 
