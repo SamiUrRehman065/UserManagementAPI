@@ -12,12 +12,12 @@ namespace UserManagementAPI.Services
         public UserService()
         {
             // Sample data for demonstration purposes.
-            _users = new List<User>
-            {
+            _users =
+            [
                 new User { Id = 1, FullName = "Alice Smith", Email = "alice@example.com", Role = "Admin", IsActive = true },
                 new User { Id = 2, FullName = "Bob Jones", Email = "bob@example.com", Role = "User", IsActive = true },
                 new User { Id = 3, FullName = "Charlie Brown", Email = "charlie@example.com", Role = "User", IsActive = false }
-            };
+            ];
         }
 
         // This method retrieves all users and maps them to UserDto objects.
