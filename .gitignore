@@ -1,0 +1,14 @@
+﻿.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.DS_Store
+*.db
+*.zip
+*.exe
+*.dll
+*.dbmdl
